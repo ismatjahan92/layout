@@ -1,0 +1,88 @@
+.header{
+	height: 100px;
+	background-color: red;
+	text-align: center;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	width: 65%;
+	height: 80px;
+	background-color: blue;
+	float: right;
+	text-align: center;
+}
+.contact{
+	width: 35%;
+	height: 80px;
+	background-color: green;
+	float: left;
+	text-align: center;
+}
+
+.info{
+	width: 33.33%;
+	height: 150px;
+	background-color: teal;
+	float: left;
+	text-align: center;
+}
+.intro{
+	width: 33.33%;
+	height: 150px;
+	background-color: aqua;
+	float: left;
+	text-align: center;
+}
+.identity{
+	width: 33.33%;
+	height: 150px;
+	background-color: tomato;
+	float: left;
+	text-align: center;
+} 
+.box{
+	width: 25%;
+	height: 90px;
+	float: left;
+	text-align: center;
+}
+.yellow{
+	background-color: yellow;
+}
+.brown{
+	background-color: saddlebrown;
+}
+.merun{
+	background-color: darkmagenta;
+}
+.skyblue{
+	background-color: skyblue;
+}
+.show{
+	width: 20%;
+	height: 90px;
+	float: left;
+	text-align: center;
+}
+.b1{ background-color:lightpink; 
+}
+.b2{
+	background-color: goldenrod;
+}
+.b3{
+	background-color: palegreen;
+}
+.b4{
+	background-color: beige;
+}
+.b5{
+	background-color: maroon;
+}
+.footer{
+	height: 100px;
+	background-color: burlywood;
+	text-align: center;
+
+}
